@@ -1,4 +1,4 @@
-cpp
+Estudos C++
 ===
 
-C++
+Pequenos estudos da linguagem c++
