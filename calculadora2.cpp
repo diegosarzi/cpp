@@ -5,6 +5,7 @@
 ***********************************/
 
 #include <iostream>
+#include <cstdlib>
 using namespace std;
 
 int main()
@@ -19,6 +20,7 @@ int main()
 	while (exit)
 	{
 
+	system("clear");
 	// Print menu
 	cout << "............................." << endl;
 	cout << ".      CALCULADORA v1.0     ." << endl;
