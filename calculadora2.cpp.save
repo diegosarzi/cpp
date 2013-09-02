@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout << "-----------------------------" << endl;
+	cout << "-  CALCULADORA  -------" << endl;
+	cout << "-----------------------------" << endl;
+	cout << "............................." << endl;
+	cout << ".                           ." << endl;
+        cout << ".         * MENU *          ." << endl;
+	cout << ".                           ." << endl;
+	cout << ".     1 -> + ||  3-> *      ." << endl;
+	cout << ".     2 -> - ||  4-> /      ." << endl;
+	cout << "
+}
